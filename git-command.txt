@@ -1,0 +1,5 @@
+git remote add origin https://github.com/vitin0897/teste.git;
+
+git pull https://github.com/vitin0897/teste.git master
+
+git push https://github.com/vitin0897/teste.git
